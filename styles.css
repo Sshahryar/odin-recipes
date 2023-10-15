@@ -1,0 +1,27 @@
+h1 {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ol {
+    list-style-type: decimal;
+}
