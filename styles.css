@@ -10,18 +10,20 @@ body {
 h1 {
     font-size: 36px;
     color: #0073e6; /* Blue color for page titles */
+    margin: 20px 0;
 }
 
 /* Style the <h2> element (subtitles) */
 h2 {
     font-size: 24px;
     color: #ff6600; /* Orange color for subtitles */
+    margin: 15px 0;
 }
 
 /* Style <p> elements (paragraphs) */
 p {
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 18px;
+    line-height: 1.6;
     margin: 10px 0;
 }
 
@@ -55,4 +57,3 @@ ol {
 ol li {
     margin-bottom: 5px;
 }
-
