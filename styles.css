@@ -17,21 +17,26 @@ h2 {
     font-size: 24px;
     color: #555;
 }
+
+/* Style <p> elements (paragraphs) */
 p {
     font-size: 16px;
     line-height: 1.5;
     margin: 10px 0;
 }
 
+/* Style <ul> (unordered lists) */
 ul {
     list-style-type: disc;
     margin-left: 20px;
 }
 
+/* Style <li> elements (list items) */
 li {
     margin-bottom: 5px;
 }
 
+/* Style images */
 img {
     max-width: 100%;
     height: auto;
@@ -40,11 +45,13 @@ img {
     margin-top: 10px;
 }
 
+/* Style <ol> (ordered lists) */
 ol {
     list-style-type: decimal;
     margin-left: 20px;
 }
 
+/* Style <ol> items */
 ol li {
     margin-bottom: 5px;
 }
