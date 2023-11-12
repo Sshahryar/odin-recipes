@@ -14,4 +14,4 @@ Website: https://sshahryar.github.io/odin-recipes/.
 
 The cascade of CSS assignment, found later on in the foundations course of the TOP curriculum, sent me back to this website project to apply newly acquired CSS knowledge to the webpages. 
 
-Found in the () file.
+Found in the styles.css file.
